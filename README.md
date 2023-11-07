@@ -1,7 +1,5 @@
 # GradientBoosting-WineClassification-Wandb
 
 
-vjgvkgvj
-lkl
-jln
  
+![Alt text](Portada-1.png)
