@@ -5,7 +5,7 @@
 ![Alt text](Portada-1.png)
 
 
-https://wandb.ai/iraitzete/vinito-upgrade/reports/GradientBoosting-WineClassification-Wandb---Vmlldzo1ODk3MjE2
+
 
 
 
@@ -15,22 +15,22 @@ https://wandb.ai/iraitzete/vinito-upgrade/reports/GradientBoosting-WineClassific
 Bienvenido al repositorio del proyecto de experimentación para la clase de Ciencia de Datos en Upgrade Hub. En este proyecto, exploramos el uso de ponderaciones y sesgos para ajustar y evaluar sistemáticamente los hiperparámetros de un clasificador de aumento de gradiente utilizando el conjunto de datos Wine.
 
 
-### Resultados de la Experimentación
+### Resultados de la Experimentación:
 
 Los resultados detallados de la experimentación se encuentran disponibles en el panel de Ponderaciones y Sesgos. Aquí, se presentan diversas métricas de rendimiento, incluida la precisión, junto con los hiperparámetros utilizados en cada experimento.
 
 🔗 https://wandb.ai/iraitzete/vinito-upgrade/reports/GradientBoosting-WineClassification-Wandb---Vmlldzo1ODk3MjE2
 
-### Descripción del Problema
+### Descripción del Problema:
 
 Nos enfrentamos a un problema clásico de clasificación multiclase: predecir la categoría del vino según atributos fisicoquímicos. El conjunto de datos Wine, con 178 muestras y 13 atributos, es utilizado en las practicas de aprendizaje automático.
 
-### Conjunto de Datos
+### Conjunto de Datos:
 
 
 Wine consta de 178 muestras de vinos, cada una con 13 atributos diferentes, como contenido de alcohol, ácido málico y cenizas. Hay tres clases que representan distintos tipos de vinos, haciéndolo adecuado para experimentos de clasificación.
 
-### Experimentación
+### Experimentación:
 
 
 Utilizamos el Gradient Boosting Classifier, un algoritmo de aprendizaje automático de conjuntos basado en árboles de decisión. Exploramos diversas combinaciones de hiperparámetros como tasa de aprendizaje, profundidad máxima de árboles y número de estimadores.
