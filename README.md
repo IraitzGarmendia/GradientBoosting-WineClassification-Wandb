@@ -69,8 +69,4 @@ Submuestra: 1
 
 Este modelo altamente preciso demuestra eficacia en clasificar correctamente las muestras de vino.
 
-Ejecución del Código                                             
-
-
-Asegúrate de tener todas las dependencias instaladas para ejecutar el código.
 
